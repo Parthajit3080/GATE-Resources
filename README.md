@@ -2,6 +2,7 @@
 
 Welcome to the **GATE-Resources** repository! This repository is a curated collection of study materials, practice papers, handwritten notes, and tracking tools designed to help aspirants prepare effectively for the GATE exam.
 
+<img width="1024" height="902" alt="image" src="https://github.com/user-attachments/assets/fb73fa38-4fe9-4b92-a077-3294a1c2323e" />
 
 
 ## 📁 Repository Structure & Contents
